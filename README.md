@@ -23,10 +23,10 @@ Both forms are fully responsive and can be easily integrated into any web projec
 ## Screenshots
 
 ### Simple Sign-Up Form
-<img src="![Screenshot (224)](https://github.com/user-attachments/assets/eadef70d-f538-4dfe-9abe-1dcc9b818fce)" alt="Simple Sign-Up Form" width="600">
+<img ![Screenshot (224)](https://github.com/user-attachments/assets/eadef70d-f538-4dfe-9abe-1dcc9b818fce) " width="600">
 
 ### Gradient Sign-Up Form
-<img src="![Screenshot (223)](https://github.com/user-attachments/assets/1fdd9fe4-0caa-4c55-a403-ae21c71dfc4c)" alt="Simple Sign-Up Form" width="600">
+<img![Screenshot (223)](https://github.com/user-attachments/assets/1fdd9fe4-0caa-4c55-a403-ae21c71dfc4c) width="600">
 
 ## Installation
 
